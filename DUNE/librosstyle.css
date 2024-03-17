@@ -18,7 +18,7 @@ h2{
 }
 
 body{
-    background-color: #E37901;
+    background-color: #01646A;
     border-radius: 15px;
 }
 
@@ -45,11 +45,11 @@ li{
 
 section{
     display: flex;
-    background-color: #D9A849;
+    background-color: #E37901;
     width: 100%;
     border-radius: 15px;
     margin-top: 30px;
-    height: 32rem;
+    height: 54.7rem;
 }
 
 img{
@@ -71,6 +71,7 @@ footer{
     border-radius: 15px;
     margin-top: 30px;
     height: 7rem;
+    
 }
 
 #c1{
@@ -91,3 +92,5 @@ footer{
     
 
 }
+
+

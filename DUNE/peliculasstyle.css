@@ -18,7 +18,7 @@ h2{
 }
 
 body{
-    background-color: #E37901;
+    background-color: #FADC6C;
     border-radius: 15px;
 }
 
@@ -45,11 +45,11 @@ li{
 
 section{
     display: flex;
-    background-color: #D9A849;
+    background-color: #C4AE58;
     width: 100%;
     border-radius: 15px;
     margin-top: 30px;
-    height: 32rem;
+    height: 62rem;
 }
 
 img{
@@ -65,12 +65,13 @@ p{
 }
 footer{
     display: flex   ;
-    background-color: #FADC6C;
+    background-color: #471D07;
     width: 100%;
     height: 12rem;
     border-radius: 15px;
     margin-top: 30px;
     height: 7rem;
+    
 }
 
 #c1{
@@ -91,3 +92,5 @@ footer{
     
 
 }
+
+
