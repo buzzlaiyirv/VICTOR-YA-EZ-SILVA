@@ -1,0 +1,182 @@
+header {
+    display: flex;
+    width: 100%;
+    height: 500px;
+    align-items: center;
+    justify-content: space-between;
+    background-image: url(imgpnt/hero_bg_clashroyale.612fcf42.jpg);
+    border-radius: 15px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.tablehead {
+    background-color: #F2AC42;
+    font-family: SupercellText-Regular,Helvetica,Arial,sans-serif;
+    font-size: xx-large;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    border-radius: 15px;
+}
+
+.tdhead{
+    width: 200px;
+    align-content: center;
+    text-align: center;
+}
+
+.altimg{
+    margin-bottom: 125px;
+    align-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+body{
+    background-color: #4172BC;
+    border-radius: 15px;
+}
+.tablebody{
+    border-radius: 15px;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: wheat;
+    font-size: x-large;
+    font-family: SupercellText-Regular,Helvetica,Arial,sans-serif;
+    align-content: center;
+    text-align: center;
+}
+
+.tablebody2{
+    border-radius: 15px;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #F0F1FB;
+    font-size: x-large;
+    font-family: SupercellText-Regular,Helvetica,Arial,sans-serif;
+    align-content: center;
+    text-align: center;
+}
+
+.tablecar{
+    border-radius: 15px;
+    width: 90%;
+    height: 750px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #BB6613;
+    font-size: medium;
+    font-family: SupercellText-Regular,Helvetica,Arial,sans-serif;
+    align-content: center;
+    text-align: center;
+}
+
+.tablecoll{
+    border-radius: 15px;
+    width: 80%;
+    height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #7D2131;
+    font-size: medium;
+    font-family: SupercellText-Regular,Helvetica,Arial,sans-serif;
+    align-content: center;
+    text-align: left;
+}
+
+.tablemazos{
+    border-radius: 15px;
+    width: 60%;
+    height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #B1D2FE;
+    font-size: medium;
+    font-family: SupercellText-Regular,Helvetica,Arial,sans-serif;
+    align-content: center;
+    text-align: left;
+}
+
+.tablejug{
+    border-radius: 15px;
+    width: 60%;
+    height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #193254;
+    font-size: medium;
+    font-family: SupercellText-Regular,Helvetica,Arial,sans-serif;
+    align-content: center;
+    text-align: center;
+}
+
+.sectionin{
+    display: flex;
+    background-color: #F2AC42;
+    width: 100%;
+    border-radius: 15px;
+    margin-top: 30px;
+    height: 72rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.sectioncar{
+    display: flex;
+    background-color: #F2AC42;
+    width: 100%;
+    border-radius: 15px;
+    margin-top: 30px;
+    height: 84rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.sectionmaz{
+    display: flex;
+    background-color: #F2AC42;
+    width: 100%;
+    border-radius: 15px;
+    margin-top: 30px;
+    height: 81rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.sectionjug{
+    display: flex;
+    background-color: #F2AC42;
+    width: 100%;
+    border-radius: 15px;
+    margin-top: 30px;
+    height: 71rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+footer{
+    display: flex   ;
+    background-image: url(imgpnt/Banner\ para\ Twitch\ eSports\ Gamer\ Neón\ Violeta.jpg);
+    width: 100%;
+    border-radius: 15px;
+    margin-top: 30px;
+    height: 12rem;
+}
+
+.img{
+    border-radius: 15px;
+}
+
+.img2{
+    border-radius: 15px;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1521px;
+
+}
+
